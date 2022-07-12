@@ -10,7 +10,7 @@ You can add chatbot in separate chat for budgets accounting, create budget plans
 then enter your daily expenses and chatbot will automate some calculations for you.<br>
 <br>
 The second goal of this project is to train the skills of the project members.<br>
-Oleksandr Kryvonosov - mentor/PM/PO<br>
+[Sasha Kryvonosov](https://www.linkedin.com/in/oleksandr-kryvonosov) - mentor/PM/PO<br>
 Yuriy Kryvonosov - Software Developer<br>
 
 ## Project details:
